@@ -1,0 +1,11 @@
+#items-grid{
+    display: grid;
+}
+#items-grid img{
+    height: 200px;
+
+}
+#items-grid img:hover{
+    transform: scale(1.4);
+
+}
