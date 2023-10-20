@@ -1,5 +1,8 @@
 #items-grid{
     display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    gap: 10px;
+
 }
 #items-grid img{
     height: 200px;
@@ -8,4 +11,8 @@
 #items-grid img:hover{
     transform: scale(1.4);
 
+}
+.movie-contents{
+    display: grid;
+    row-gap: 20px;
 }
