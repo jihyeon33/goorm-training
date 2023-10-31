@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+
+}
+header{
+    background-color:dodgerblue;
+    color: white;
+    height: 40px;
+}
+.leftDiv img{
+    height: 260px;
+}
+.userSearchDiv{
+    border-color:lightgray;
+    border-style: solid;
+    border-width: thin;
+    margin: 15px;
+}
+.myProfileDiv{
+    border-color: lightgray;
+    border-style: solid;
+    border-width: thin;
+    margin: 15px;
+}
+.latestReposDiv{
+    margin: 15px;
+}
